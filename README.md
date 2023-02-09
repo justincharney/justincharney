@@ -3,9 +3,9 @@
 ### I'm a Student, Drummer, and Powerlifter! 
 - 📚 Completing my B.Eng in Bioengineering at McGill
 - 🌱 Learning web development in PHP using Laravel
-- 🤝 Looking to collaborate with others on machine learning projects or SaaS startup
+- 🤝 Looking to collaborate with others on machine learning projects or a SaaS startup
 
-I love applying machine learning to solve intersting problems at the intersection of biology and engineering. Some of my favourite past projects include [protein structure prediction] and [structual analysis premolar enamel] using image segmentation. Currently, I'm very excited about the field of NLP and the potential of large language models in a varitety of contexts. One of my main goals for 2023 is to work with other's in the field of NLP to reduce mis-information and toxicity of online discourse.
+I love applying machine learning to solve interesting problems at the intersection of biology and engineering. My favourite past projects include [protein structure prediction] and [structural analysis premolar enamel] using image segmentation. Currently, I'm very excited about the field of NLP and the potential of large language models in various contexts. One of my main goals for 2023 is to work with others in the field of NLP to reduce misinformation and toxicity of online discourse.
 
 <br>
 
