@@ -5,7 +5,7 @@
 - 🌱 Learning web development in PHP using Laravel
 - 🤝 Looking to collaborate with others on machine learning projects or SaaS startup
 
-<p>I love applying machine learning to solve intersting problems at the intersection of biology and engineering. Some of my favourite past projects include [protein structure prediction](https://github.com/justincharney/Python_Machine_Learning/blob/main/PSS_Prediction.ipynb) and [structual analysis premolar enamel](https://github.com/justincharney/Python_Machine_Learning/blob/main/Crack_segment.ipynb) using image segmentation. Currently, I'm very excited about the field of NLP and the potential of large language models in a varitety of contexts. One of my main goals for 2023 is to work with other's in the field of NLP to reduce mis-information and toxicity of online discourse.</p>
+<p>I love applying machine learning to solve intersting problems at the intersection of biology and engineering. Some of my favourite past projects include [protein structure prediction] and [structual analysis premolar enamel] using image segmentation. Currently, I'm very excited about the field of NLP and the potential of large language models in a varitety of contexts. One of my main goals for 2023 is to work with other's in the field of NLP to reduce mis-information and toxicity of online discourse.</p>
 
 <br>
 
@@ -40,3 +40,9 @@
 ## GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justincharney&show_icons=true&locale=en" alt="justincharney" /></p>
+
+<br>
+<br>
+
+[protein structure prediction]: https://github.com/justincharney/Python_Machine_Learning/blob/main/PSS_Prediction.ipynb
+[structual analysis premolar enamel]: https://github.com/justincharney/Python_Machine_Learning/blob/main/Crack_segment.ipynb
