@@ -1,4 +1,4 @@
-### Hi there, I'm Justin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
+## Hi there, I'm Justin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
 
 ## I'm a Student, Drummer, and Powerlifter! 
 - 📚 Completing my B.Eng in Bioengineering at McGill
