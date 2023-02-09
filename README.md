@@ -1,11 +1,11 @@
 ## Hi there, I'm Justin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
 
-<br>
-
 ### I'm a Student, Drummer, and Powerlifter! 
 - 📚 Completing my B.Eng in Bioengineering at McGill
 - 🌱 Learning web development in PHP using Laravel
 - 🤝 Looking to collaborate with others on machine learning projects or SaaS startup
+
+<p>I love learning tools to solve intersting problems at the intersection of biology and engineering. Some of my favourite past projects include [protein structure prediction] and  </p>
 
 <br>
 
