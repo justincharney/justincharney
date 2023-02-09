@@ -7,7 +7,7 @@
 
 <br>
 
-I love applying machine learning to solve interesting problems at the intersection of biology and engineering. My favourite past projects include [protein structure prediction] and [structural analysis of premolar enamel] using image segmentation. Currently, I'm very excited about the field of NLP and the potential of large language models in various contexts. One of my main goals for 2023 is to work with others in the field of NLP to reduce misinformation and toxicity of online discourse.
+I love applying machine learning to solve interesting problems at the intersection of biology and engineering. My favourite past projects include [protein structure prediction] and [structural analysis of premolar enamel] using image segmentation. Currently, I'm very excited about the field of NLP and the potential of large language models in various contexts. One of my goals for 2023 is to work with others in the field of NLP on problems such as reducing misinformation of LLMs or improving information retrieval methods.
 
 <br>
 
