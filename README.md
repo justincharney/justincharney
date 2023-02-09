@@ -34,3 +34,9 @@
     ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 </p>
+
+<br>
+
+## GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justincharney&show_icons=true&locale=en" alt="justincharney" /></p>
