@@ -3,7 +3,7 @@
 ### I'm a Student, Drummer, and Powerlifter! 
 - 📚 Completing my B.Eng in Bioengineering at McGill
 - 🌱 Learning web development in PHP using Laravel
-- 🤝 Looking to collaborate with others on machine learning projects or a SaaS startup
+- 🤝 Looking to collaborate with others on machine learning projects or a startup
 
 <br>
 
