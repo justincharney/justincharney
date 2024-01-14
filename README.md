@@ -38,5 +38,5 @@ My goal is to apply machine learning to solve interesting problems at the inters
 <br>
 
 
-[protein secondary structure prediction]: https://github.com/justincharney/Python_Machine_Learning/blob/main/PSS_Prediction.ipynb
+[protein secondary structure prediction]: https://github.com/justincharney/ProteinSecondaryStructure
 [microcrack segmentation in enamel]: https://github.com/justincharney/Python_Machine_Learning/blob/main/enamel_crack_segmentation.ipynb
